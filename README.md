@@ -88,3 +88,30 @@ Simplify is built around three core components:
 
 The repository is maintained in English.  
 Localized documentation will be available under:
+```
+docs/en/
+docs/es/
+docs/<other-languages>/
+```
+
+---
+
+## 📜 License
+
+Simplify is released under the **Apache License 2.0**.  
+See the `LICENSE` file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Please open an issue or submit a pull request.
+
+---
+
+## 💬 About the Project
+
+Simplify is built with the idea that digital organization should be effortless.  
+By combining multimodal similarity, smart metadata, and OS‑native search integration, Simplify helps you transform digital clutter into clarity.
+
