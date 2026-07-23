@@ -1,0 +1,21 @@
+name: dedup-py311
+channels:
+  - conda-forge
+  - pytorch  
+dependencies:
+  - python=3.11
+  - pip
+  - sqlite
+  - tqdm
+  - rich
+  - python-dotenv
+  - psycopg2
+  - faiss-cpu
+  - numpy 
+  - pillow  
+  - pip:
+      - blake3
+      - click
+      - pathspec
+      - imagehash
+      - opencv-python
